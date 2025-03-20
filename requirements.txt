@@ -4,4 +4,4 @@ pandas
 pickle
 xgboost
 streamlit
-Pillow
+pillow
